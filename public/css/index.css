@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+*{text-decoration: none;
+ font-family: 'Quicksand', sans-serif;
+;
+
+}
+
+body{
+    background-image: url("/img/emilia-home.jpg");
+background-repeat: no-repeat;
+background-size: 850px;
+background-position: 180px 0;
+
+}
+
+.pestañas-home ul{
+    margin-left: -20px;
+
+}
+
+.pestañas-home ul li a{
+color: black;
+font-size: 12px;
+}
+
+.redes ul{
+    margin-left: -20px; ;
+}
+
+.nombre-artista{
+margin-top:120px ;
+margin-left:15px ;
+font-weight:lighter ;
+}
+
+.album{
+    font-size:44px ;
+    margin-top:185px ;
+    padding:15px;
+    background-color:rgba(255, 255, 255, 0.3);
+     ; 
+}   
