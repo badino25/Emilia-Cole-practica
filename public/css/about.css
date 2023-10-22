@@ -1,12 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,600&display=swap');
 *{
     text-decoration:none;
+    font-family: 'Raleway', sans-serif;
 }
 
 body{
     background-image:url( "/img/emilia-about.jpg");
     background-repeat:no-repeat;
-    background-position:270px;
-    background-size:100%;
+    background-position:right top;
+    background-size:77%
 
 
 
@@ -21,7 +23,8 @@ text-align:right ;
 
 
 .pestañas-about ul{
-    padding:10px;
+    padding:20px;
+    font-size: 19px;
     background-color:  rgba(255, 255, 255, 0.3);
 }
 
@@ -32,13 +35,37 @@ text-align:right ;
 }
 
 .titulo{
-    font-size:40px;
+    font-size:65px;
+    margin-top: -1cm;
+    font-weight: bold;
 }
 
 .titulo-1{
 margin-left:45px;
-margin-top:60px;
+font-size:25px ;
+font-weight:lighter ;
 
+}
+.titulo-1 h3 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    color:#4D9C87;
+}
 
+.titulo-1 p{
+    font-size:18px ;
+    font-weight:lighter ;
+    color:#3C6B5B;
+}
 
+.titulo-2 h3{
+    font-weight:bold ;
+    color:#4D9C87;
+    font-size: 28px;
+    margin-left: 1cm;
+}
+.titulo-2 p{
+    color:#3C6B5B;
+    margin-left:1cm
 }

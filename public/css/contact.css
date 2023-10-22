@@ -1,0 +1,55 @@
+*{  text-decoration: none;
+
+}
+
+.header{
+text-align:right
+
+}
+
+
+.redes-contact ul a{
+color: black;
+font-size: 16px;
+
+}
+
+.contact {
+color :black;
+font-size: 42px;
+font-weight: bolder;
+}
+
+.info-titulo{
+color: black;
+font-size: 16px;
+font-weight: bolder;
+
+
+}
+
+.karen{
+color :rgb(30, 157, 152);
+font-size: 16px;
+}
+
+
+.art-general {
+color: black;
+font-size: 18px;
+
+}
+
+.art {
+color: rgb(0, 0, 0);
+}
+
+
+.t1{
+
+font-weight: bolder;
+}
+
+.link-numero{
+color:black
+}
